@@ -13,4 +13,5 @@ iv) Pandas
 v) Streamlit
 
 ML model used:
+
       Supervised --> Linear Regession
