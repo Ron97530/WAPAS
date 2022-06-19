@@ -8,9 +8,9 @@ Web Application to Predict and Analyze Sales from the provided data to get graph
 Technologies used:
 Python 3.8.5
 Scikit-Learn
-NumPy
+Numpy
 Pandas
 Streamlit
 
 ML model used:
-Supervised--> Linear Regression
+Supervised --> Linear Regession
